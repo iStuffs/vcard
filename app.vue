@@ -67,13 +67,13 @@ const cardTransformation = computed(() => {
     </header>
     <main>
       <img
-        src="qrcodes/joachim_racz.png"
+        src="/qrcodes/joachim_racz.png"
         alt="vCard of Samuel DIDIER-LAURENT"
         class="qrcode"
       />
     </main>
     <footer class="footer">
-      <img src="ageas_re.png" alt="ageas re" class="footer__logo" />
+      <img src="/ageas_re.png" alt="ageas re" class="footer__logo" />
     </footer>
   </div>
 </template>
