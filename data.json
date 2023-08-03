@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Racz",
+    "firstName": "Joachim",
+    "title": "Group Director",
+    "email": "joachim.racz@ageas.com",
+    "mobile": "00 32 488 87 44 07",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Walker",
+    "firstName": "Jeremy ",
+    "title": "Underwriting Director Property",
+    "email": "jeremy.walker@ageas-re.com",
+    "mobile": "00 44 (0)791 948 69 50",
+    "address": "",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Rappaz",
+    "firstName": "Stephan",
+    "title": "Underwriting Director Casualty",
+    "email": "stephan.rappaz@ageas-re.com",
+    "mobile": "",
+    "address": "General-Guisan-Quai 32, 8002 Zürich, Switzerland",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Nadjar ",
+    "firstName": "Stéphane",
+    "title": "Head of Business Development and Client Coordination",
+    "email": "stephane.nadjar@ageas.com",
+    "mobile": "00 33 (0)6 40 10 66 91",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Le Boulengé",
+    "firstName": "Arnaud",
+    "title": "Head of Corporate Underwriting",
+    "email": "arnaud.leboulenge@ageas-re.com",
+    "mobile": "00 32 485 88 11 29",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Dalimier",
+    "firstName": "Pierre-Yves",
+    "title": "Lead Underwriter FR, Benelux, IT, Mediterranean, Africa",
+    "email": "pierre-yves.dalimier@ageas-re.com",
+    "mobile": "00 32 485 88 11 26",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Diester",
+    "firstName": "Anne",
+    "title": "Lead Underwriter DACH, CEE, Nordics",
+    "email": "anne.deister@ageas-re.com",
+    "mobile": "00 41 79 800 06 68",
+    "address": "General-Guisan-Quai 32, 8002 Zürich, Switzerland",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Rensonnet",
+    "firstName": "Vincent",
+    "title": "Lead Underwriter Latin America & Iberia",
+    "email": "vincent.rensonnet@ageas-re.com",
+    "mobile": "00 32 485 88 11 28",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Di Lena",
+    "firstName": "Cristina",
+    "title": "Senior Underwriter IT, Mediterranean",
+    "email": "cristina.dilena@ageas-re.com",
+    "mobile": "00 32 471 91 00 43",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Amiras",
+    "firstName": "Wolfgang Amiras",
+    "title": "Senior Underwriter DACH, CEE, Nordics",
+    "email": "wolfgang.amiras@ageas-re.com",
+    "mobile": "00 41 78 881 41 07",
+    "address": "General-Guisan-Quai 32, 8002 Zürich, Switzerland",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Marchal",
+    "firstName": "Gilles",
+    "title": "Senior Underwriter Latin America",
+    "email": "gilles.marchal@ageas-re.com",
+    "mobile": "00 32 475 65 03 13",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Colaris",
+    "firstName": "Sébastien",
+    "title": "Underwriter UK, IRL, AUZ,US/CA, NL, Israel, Intl retro",
+    "email": "sebastien.@ageas-re.com",
+    "mobile": "00 32 475 37 16 12",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Royer",
+    "firstName": "Moira ",
+    "title": "Underwriting Assistant",
+    "email": "moira.royer@ageas.com",
+    "mobile": "00 32 475 85 55 88",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  },
+  {
+    "name": "Fraterrigo",
+    "firstName": "Rosa",
+    "title": "Underwriting Assistant",
+    "email": "rosa.fraterrigo@ageas-re.com",
+    "mobile": "",
+    "address": "Avenue du Boulevard 21, 14th floor, B-1210 Brussels, Belgium",
+    "web": "www.ageas-re.com"
+  }
+]
